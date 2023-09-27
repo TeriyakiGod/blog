@@ -3,7 +3,7 @@ layout: post
 title:  "Hello world!"
 date:   2023-09-27 09:21:42 +0200
 ---
-Hello, LinkedIn community! 👋 I'm thrilled to kick off my journey as a 3rd-year computer engineering student with a deep fascination for embedded development. 🚀
+Hello, everybody! 👋 I'm thrilled to kick off my journey as a 3rd-year computer engineering student with a deep fascination for embedded development. 🚀
 
 My journey into the world of embedded systems began during my studies at the University of Technology Koszalin, where I delved into microprocessors and electronics. 📚 This fascination was further enriched when I took part in an Embedded Automotive Internship at GlobalLogic. 💼
 
