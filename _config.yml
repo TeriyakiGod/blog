@@ -11,9 +11,6 @@ description: >
   Hi! Thanks for visiting my blog where I share the progress of my computer engineering journey. Enjoy!
 # Build settings
 
-disqus:
-  shortname: kacperochnik-blog
-
 theme: minima
 
 plugins:
