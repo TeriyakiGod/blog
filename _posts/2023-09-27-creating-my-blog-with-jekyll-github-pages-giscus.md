@@ -2,6 +2,7 @@
 layout: post
 title:  "Tutorial: Create Your Blog with Jekyll, GitHub Pages, and Giscus"
 date:   2023-09-27 21:00 +0200
+tags: blog github web jekyll github-pages giscus
 ---
 
 ![Jekyll Logo](https://jekyllrb.com/img/logo-2x.png)
@@ -32,7 +33,8 @@ GitHub Pages is a fantastic platform for hosting static websites. You can host y
 
     > **Note**: For more information refer to the tutorial on [Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
-4. **Add Your First Post**: Create a markdown file in the `_posts` folder and put anything you like. For example:
+4. **Add Your First Post**: Create a markdown file in the `_posts` folder name it with following format
+``YEAR-MONTH-DAY-title.MARKUP`` and put in it anything you like. For example:
 
     ```markdown
     ---

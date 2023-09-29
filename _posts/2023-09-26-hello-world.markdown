@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello world!"
 date:   2023-09-26 23:00 +0200
+tags: blog lore
 ---
 Hello, everybody! 👋 I'm thrilled to kick off my journey as a 3rd-year computer engineering student with a deep fascination for embedded development. 🚀
 
