@@ -2,7 +2,7 @@
 layout: post
 title: Creating a Self-Hosted Linktree-Like Site with SvelteKit and Vercel
 author: Kacper Ochnik
-date: 2023-09-30 14:00
+date: 2023-09-30 14:00 +0200
 tags: web-development sveltekit vercel self-hosted linktree
 ---
 
