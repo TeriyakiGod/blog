@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello world!"
+author: Kacper Ochnik
 date:   2023-09-26 23:00 +0200
 tags: blog lore
 ---

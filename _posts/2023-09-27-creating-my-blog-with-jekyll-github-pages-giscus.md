@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tutorial: Create Your Blog with Jekyll, GitHub Pages, and Giscus"
+author: Kacper Ochnik
 date:   2023-09-27 21:00 +0200
 tags: blog github web jekyll github-pages giscus
 ---

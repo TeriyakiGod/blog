@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pizza Slice"
+author: Kacper Ochnik
 date:   2023-09-29 09:00 +0200
 tags: game-dev android unity google-play pizza
 ---
