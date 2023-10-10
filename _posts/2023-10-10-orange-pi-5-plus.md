@@ -2,7 +2,7 @@
 layout: post
 title: "Unveiling the Orange Pi 5 Plus: A Powerful Single-Board Computer"
 author: Kacper Ochnik
-date: 2023-10-10 15:00 +0100
+date: 2023-10-10 13:00 +0100
 tags: embedded linux sbc orange-pi
 ---
 <div style="text-align: center">
