@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Orange Pi 5 Plus: A Powerful Single-Board Computer"
 author: Kacper Ochnik
-date: 2023-10-10 13:00 +0100
+date: 2023-10-10 15:00 +0200
 tags: embedded linux sbc orange-pi
 ---
-<div style="text-align: center">
+<div style="margin-bottom: 20px;text-align: center">
 <a href="http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-plus.html">
-<img style="" src="http://www.orangepi.org/img/pi5-plus/pi5-plus-27.png" width="500px" height="500px">
+<img style="" src="../../../assets/img/pi5-plus-27.png">
 </a>
 </div>
 After spending some time with the Orange Pi 5 Plus, I can confidently say that this single-board computer (SBC) is a game-changer in the world of embedded systems and SBC enthusiasts. Its remarkable hardware specifications and performance have left a lasting impression on me.
