@@ -3,9 +3,9 @@ layout: post
 title: "Creating a Programmer's Clock with Arduino and Hexadecimal Display"
 author: Kacper Ochnik
 date: November 15, 2023
-tags: Arduino, Programming, Electronics
+tags: Arduino Programming Electronics
 ---
-![Programmers clock](../assets/img/programmers-clock.webp)
+![Programmers clock](assets/img/programmers-clock.webp)
 
 Have you ever wanted a clock that speaks the language of programmers? Imagine a clock where the time is not in the typical digits but is represented in the hexadecimal format familiar to those who delve into the world of coding. In this post, I'll share my journey of creating just that – a Programmer's Clock.
 
@@ -27,7 +27,7 @@ To bring this idea to life, I gathered the following components:
 
 The schematic below shows how the components are connected to the Arduino. The 7-segment display is controlled by the shift register, which is connected to the Arduino via the SPI interface. The buttons are connected to the Arduino's digital pins, and the resistors are used to limit the current flowing through the 7-segment display.
 
-![Schematic](../assets/svg/ProgrammersClock.svg)
+![Schematic](assets/svg/ProgrammersClock.svg)
 
 ### The Code
     
