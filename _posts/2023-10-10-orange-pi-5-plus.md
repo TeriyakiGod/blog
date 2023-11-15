@@ -7,7 +7,7 @@ tags: embedded linux sbc orange-pi
 ---
 <div style="margin-bottom: 20px;text-align: center">
 <a href="http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-plus.html">
-<img style="" src="../../../assets/img/pi5-plus-27.png">
+<img style="" src="../../../assets/img/pi5-plus-27.webp">
 </a>
 </div>
 After spending some time with the Orange Pi 5 Plus, I can confidently say that this single-board computer (SBC) is a game-changer in the world of embedded systems and SBC enthusiasts. Its remarkable hardware specifications and performance have left a lasting impression on me.
