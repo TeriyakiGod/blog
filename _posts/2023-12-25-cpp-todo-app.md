@@ -8,6 +8,8 @@ tags: [API, C++, httplib, JSON, SQLite, Authentication, Authorization, Best Prac
 ---
 Embarking on the journey of crafting a Todo app API using a combination of C++, httplib, JSON, and SQLite has been an enriching experience. This blog post delves into the details of the project, highlighting the integration of these technologies and emphasizing the importance of best practices.
 
+[Github Repo](https://github.com/TeriyakiGod/cpp-todo-app)
+
 ## Technologies Used
 
 1. **C++:** The foundation of the project, ensuring high performance and efficiency.
